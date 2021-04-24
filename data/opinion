@@ -1,5 +1,1 @@
-%person says %mapmod is more %adjectiveismore than %mapmod
-%person says %mapmod is less %adjectiveismore than %mapmod
-%person says %mapmod is vastly more %adjectiveismore than %mapmod
-%person says %mapmod is insanely more %adjectiveismore than %mapmod
-%person says %mapmod is significantly less %adjectiveismore than %mapmod
+%person says %mapmod is %endsinly %amount %adjectiveismore than %mapmod
