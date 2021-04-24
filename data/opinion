@@ -1,4 +1,2 @@
-%person says %mod is %amount %adjectiveismore than %mod
 %person says %mod is %endsinly %amount %adjectiveismore than %mod
-%person says %mapmod is %amount %adjectiveismore than %mapmod
 %person says %mapmod is %endsinly %amount %adjectiveismore than %mapmod
