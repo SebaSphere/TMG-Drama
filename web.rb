@@ -102,7 +102,6 @@ a:hover {
 </style>
 <div class='drama'><%= drama %></div>
 <a href='/'>Get more drama!</a> <br>
-<a href='http://tmg-drama.herokuapp.com/<%= seed %>'>Permalink</a> <br><br>
 <a href='https://github.com/CreativeRealms/TMG-Drama'>GitHub</a>
 </body>
 </html>
